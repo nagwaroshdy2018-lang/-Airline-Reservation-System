@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# Build
+/build/
+
+# NetBeans
+/nbproject/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
